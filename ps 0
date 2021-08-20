@@ -1,1 +1,6 @@
-
+i = 10
+for i in range(7,11,2):
+    if i == 10:
+        break
+    print(i)
+print(i)
